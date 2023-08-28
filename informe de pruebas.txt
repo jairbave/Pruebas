@@ -1,0 +1,5 @@
+INFORME DE PRUEBA.
+
+En la primera prueba de espresso note que con el nombre que se le da a la prueba el programa hace una clase y de esa clase se desprenden diferentes metodos los cuales muestra el proceso de forma oredenada en la manera que el usuario va ejecutando el programa el programa muestra el dato que fue introducido en la primera posicion y tambien en la segunda y de forma sucesiva dando el dato exacto en lo que se realizo en cada posicion, dando resultado si se ejecuto de forma correcta o incorrecta.  
+
+en la segunda prueva el programa dio resultado fue  fallido ya que se le introdujo dato incorrecto ppr lo cual era de esperarse, tambien haciendo el mismo procedimiento de la primera prueba en donde da un informe de cada periodo que se va realizando de forma manual en el programa.
